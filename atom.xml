@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JC&#39;s Notes</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jczh67.com/"/>
+  <updated>2019-12-13T07:51:11.000Z</updated>
+  <id>https://jczh67.com/</id>
+  
+  <author>
+    <name>Jincao Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first_post</title>
+    <link href="https://jczh67.com/2019/12/13/first-post/"/>
+    <id>https://jczh67.com/2019/12/13/first-post/</id>
+    <published>2019-12-13T07:50:39.000Z</published>
+    <updated>2019-12-13T07:51:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>this is the first post test</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;this is the first post test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
